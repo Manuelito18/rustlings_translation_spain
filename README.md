@@ -1,14 +1,13 @@
 # Rustlings (Traducción al Español) 🦀
 
-![Rust](https://img.shields.io/badge/Rust-%23E05D44.svg?style=flat-square&logo=rust&logoColor=white)
-![Rust Edition](https://img.shields.io/badge/Edition-2021-blue?style=flat-square&logo=rust)
-![Cargo Build](https://img.shields.io/badge/Cargo-Build-success?style=flat-square&logo=rust)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Español](https://img.shields.io/badge/Idioma-Español-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
-![Fork](https://img.shields.io/badge/Fork-Original_Repo-orange.svg?style=flat-square)
-![Mantenido por](https://img.shields.io/badge/Mantenido_por-Manuelito18-FF69B4?style=flat-square&logo=github)
-
+[![Rust](https://img.shields.io/badge/Rust-%23E05D44.svg?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![Rust Edition](https://img.shields.io/badge/Edition-2021-blue?style=flat-square&logo=rust)](https://doc.rust-lang.org/edition-guide/rust-2021/index.html)
+[![Cargo Build](https://img.shields.io/badge/Cargo-Build-success?style=flat-square&logo=rust)](https://doc.rust-lang.org/cargo/)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://wiki.archlinux.org/)
+[![Español](https://img.shields.io/badge/Idioma-Español-brightgreen?style=flat-square)](https://github.com/Manuelito18/rustlings_translation_spain)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Fork](https://img.shields.io/badge/Fork-Original_Repo-orange.svg?style=flat-square)](https://github.com/rust-lang/rustlings)
+[![Mantenido por](https://img.shields.io/badge/Mantenido_por-Manuelito18-FF69B4?style=flat-square&logo=github)](https://github.com/Manuelito18)
 **Rustlings** es una colección de pequeños ejercicios diseñados para que te acostumbres a leer y escribir código en [Rust](https://www.rust-lang.org).
 
 > [!IMPORTANT]
